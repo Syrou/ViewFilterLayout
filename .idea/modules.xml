@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ViewFilterLayout.iml" filepath="$PROJECT_DIR$/ViewFilterLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/magiclayout/magiclayout.iml" filepath="$PROJECT_DIR$/magiclayout/magiclayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewfilterlayout/viewfilterlayout.iml" filepath="$PROJECT_DIR$/viewfilterlayout/viewfilterlayout.iml" />
     </modules>
   </component>
 </project>

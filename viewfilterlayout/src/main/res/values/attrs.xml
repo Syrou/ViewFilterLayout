@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ViewFilterLayout">
+
+    </declare-styleable>
+
+
+    <declare-styleable name="ViewFilterLayout_LayoutParams">
+        <attr name="ViewFilterLayout_LayoutParams_filterPriority" format="integer" />
+    </declare-styleable>
+</resources>
